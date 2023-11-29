@@ -1,0 +1,9 @@
+F. Handayani, dan M. Mustikasari, “SENTIMENT ANALYSIS OF ELECTRIC CARS USING 
+RECURRENT NEURAL NETWORK METHOD IN INDONESIAN TWEETS”, Jurnal Ilmiah 
+KURSOR, vol. 10, no. 04, hlm. 153-158, 2020, doi: https://doi.org/10.21107/kursor.v10i4.233 (6)
+[11] Fitriah Nur, Warsito Budi & D. A. I. Maruddani, “Analisis Sentimen GOJEK pada Media Sosial 
+Twitter dengan Klasifikasi Support Vector Machine (SVM)”, Jurnal Gaussian, vol. 9, no. 3, pp. 376 
+– 390, 2020
+[12] O. H. Rahman, Abdillah Gunawan & Komarudin Agus, “Klasifikasi Ujaran Kebencian pada Media 
+Sosial Twitter Menggunakan Support Vector Machine”, Jurnal Rekayasa Sistem dan Teknologi 
+Informasi (RESTI), vol. 5, no. 1, pp. 17 – 23, 2021
